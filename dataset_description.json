@@ -1,0 +1,6 @@
+{
+	"Name": "bonn_fcd",
+	"BIDSVersion": "1.6.0",
+	"Authors": ["FS","LW","MS","TR"],
+	"PipelineDescription": {"Name": "bonn_fcd"}
+}
