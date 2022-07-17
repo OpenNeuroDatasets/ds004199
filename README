@@ -1,1 +1,4 @@
-This is the first dataset published by the Tranlational Neurimaging Lab Bonn!
+Here, we present an MRI dataset of 85 patients suffering from epilepsy due to focal cortical dysplasia (FCD) type II and 85 healthy controls. 
+In epilepsy imaging, automated detection of FCDs plays a particularly important role, because FCDs often escape conventional MRI analysis. Accurate recognition of FCDs is of high importance for affected patients, as surgical resection of the dysplastic cortex is associated with a high success rate and a substantial number of patients subsequently become seizure-free. 
+With the publication of this dataset, we hope that computer-aided FCD detection can be improved. This can be achieved by validating existing automated algorithms and by developing new approaches. 
+Our dataset includes MRI data that consists of T1w and FLAIRw. MRI data are published along with manually labeled regions of interest and selected clinical features.
