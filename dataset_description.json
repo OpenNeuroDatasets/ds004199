@@ -1,7 +1,16 @@
 {
 	"Name": "bonn_fcd",
 	"BIDSVersion": "1.6.0",
-	"Authors": ["Fabiane Schuch","Lennart Walger","Mathias Schmitz","Theodor Rueber"],
+	"Authors": [
+    "Fabiane Schuch",
+    "Lennart Walger",
+    "Matthias Schmitz",
+    "Theodor Rüber"
+  ],
+	"EthicsApprovals": [
+    "Ethics Committee of the University of Bonn"
+  ],
 	"License": "CCo",
-	"PipelineDescription": {"Name": "bonn_fcd"}
+	"PipelineDescription": {"Name": "bonn_fcd"},
+	"DatasetDOI": "doi:10.18112/openneuro.ds004199.v1.0.0"
 }
