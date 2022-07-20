@@ -1,15 +1,7 @@
 {
-    "Name": "bonn_fcd",
-    "BIDSVersion": "1.6.0",
-    "Authors": [
-        "FS",
-        "LW",
-        "MS",
-        "Theodor R\u00fcber"
-    ],
-    "PipelineDescription": {
-        "Name": "bonn_fcd"
-    },
-    "DatasetDOI": "doi:10.18112/openneuro.ds004199.v1.0.0",
-    "License": "CC0"
+	"Name": "bonn_fcd",
+	"BIDSVersion": "1.6.0",
+	"Authors": ["Fabiane Schuch","Lennart Walger","Mathias Schmitz","Theodor Rueber"],
+	"License": "CCo",
+	"PipelineDescription": {"Name": "bonn_fcd"}
 }
