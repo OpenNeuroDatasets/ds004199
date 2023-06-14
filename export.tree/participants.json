@@ -1,0 +1,174 @@
+{
+  "group": {
+      "Description": "the group a person belongs to",
+      "Levels": {
+          "fcd": "person with epilepsy, diagnosed with an FCD",
+          "hc": "healthy control"
+      }
+  },
+    "sex": {
+        "Description": "sex of the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "age_epilepsyonset": {
+        "Description": "categorized age in years at the time of the first seizure",
+        "Levels":{
+          "1": "0-5 years",
+          "2": "6-10 years",
+          "3": "11-15 years",
+          "4": "16-20 years",
+          "5": "21-25 years",
+          "6": "26-30 years",
+          "7": "31-35 years",
+          "8": "36-40 years",
+          "9": "41-45 years",
+          "10": "46-50 years",
+          "11": "51-55 years",
+          "12": "56-60 years",
+          "13": "61-65 years"
+        }
+    },
+    "age_scan": {
+        "Description": "categorized age in years at the time of MRI",
+        "Levels":{
+          "1": "1-5 years",
+          "2": "6-10 years",
+          "3": "11-15 years",
+          "4": "16-20 years",
+          "5": "21-25 years",
+          "6": "26-30 years",
+          "7": "31-35 years",
+          "8": "36-40 years",
+          "9": "41-45 years",
+          "10": "46-50 years",
+          "11": "51-55 years",
+          "12": "56-60 years",
+          "13": "61-65 years"
+        }
+    },
+    "mri_diagnosis": {
+        "Description": "diagnosis made by neuroradiologists at the University Hospital Bonn at the time of presurgical assesment",
+        "Levels": {
+            "suspicion": "Images suggest an FCD type II.",
+            "none": "Images did not reveal any pathological changes.",
+            "other": "Described structural changes, bu no suspected FCD."
+        }
+    },
+    "map": {
+        "Description": "morphometric analysis performed",
+        "Levels": {
+            "1": "was performed",
+            "0": "was not performed"
+        }
+    },
+    "spect": {
+        "Description": "spect performed",
+        "Levels": {
+            "1": "was performed",
+            "0": "was not performed"
+        }
+    },
+    "pet": {
+        "Description": "pet performed",
+        "Levels": {
+            "1": "was performed",
+            "0": "was not performed"
+        }
+    },
+    "invasive_EEG": {
+        "Description": "invasive EEG diagnostic performed",
+        "Levels": {
+            "1": "was performed",
+            "0": "was not performed"
+        }
+    },
+    "op": {
+        "Description": "epilepsy surgery performed",
+        "Levels": {
+            "1": "was performed",
+            "0": "was not performed"
+        }
+    },
+    "age_op": {
+        "Description": "categorized age at the time of epilepsy surgery",
+        "Levels": {
+          "1": "1-5 years",
+          "2": "6-10 years",
+          "3": "11-15 years",
+          "4": "16-20 years",
+          "5": "21-25 years",
+          "6": "26-30 years",
+          "7": "31-35 years",
+          "8": "36-40 years",
+          "9": "41-45 years",
+          "10": "46-50 years",
+          "11": "51-55 years",
+          "12": "56-60 years",
+          "13": "61-65 years"
+        }
+    },
+    "histopathology": {
+        "Description": "histological classification according to the ILAE classification",
+        "Levels": {
+            "IIa": "Type IIa",
+            "IIb": "Type IIb"
+        }
+    },
+    "1year_outcome": {
+        "Description": "postoperative outcome 12 months after epilepsy surgery according to the Engel classification ",
+        "Levels": {
+            "IA": "Engel IA: Completely seizure free since surgery",
+            "IB": "Engel IB: Nondisabling simple partial seizures only since surgery",
+            "IIA": "Engel IIA: Initially free of disabling seizures but has rare seizures now",
+            "IIB": "Engel IIB: Rare disabling seizures since surgery",
+            "IIIA": "Engel IIIA: Worthwhile seizure reduction",
+            "IVB": "Engel IVB: No appreciable change"
+        }
+    },
+    "latest_outcome": {
+        "Description": "latest postoperative outcome after epilepsy surgery according to the Engel classification ",
+        "Levels": {
+            "IA": "Engel IA: Completely seizure free since surgery",
+            "IB": "Engel IB: Nondisabling simple partial seizures only since surgery",
+            "IC": "Engel IC: Some disabling seizures after surgery, but free of disabling seizures for at least 2 years",
+            "IIA": "Engel IIA: Initially free of disabling seizures but has rare seizures now",
+            "IIB": "Engel IIB: Rare disabling seizures since surgery",
+            "IIC": "Engel IIC: More than rare disabling seizures since surgery, but rare seizures for the last 2 years",
+            "IIIA": "Engel IIIA: Worthwhile seizure reduction",
+            "IVB": "Engel IVB: No appreciable change",
+            "IVC": "Engel IVC: Seizures worse"
+        }
+    },
+    "time_follow-up": {
+        "Description": "date of last follow-up in years after surgery",
+        "Levels": {
+          "1": "less than 1 year",
+          "2": "1-2 years",
+          "3": "3-4 years",
+          "4": "5-6 years",
+          "5": "7-8 years",
+          "6": "9-10 years",
+          "7": "11-12 years"
+        }
+    },
+    "hemisphere": {
+        "Description": "hemisphere affected by the FCD",
+        "Levels": {
+            "L": "left",
+            "R": "right"
+        }
+    },
+    "lobe": {
+        "Description": "lobe affected by the FCD",
+        "Levels": {
+            "FL": "frontal lobe",
+            "TL": "temporal lobe",
+            "PL": "parietal lobe",
+            "OL": "occipital lobe",
+            "IL": "insular lobe"
+        }
+    }
+}
