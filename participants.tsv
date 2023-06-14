@@ -1,4 +1,4 @@
-﻿participant_id	group	sex	age_epilepsyonset	age_scan	mri _diagnosis	map	spect	pet	invasive_EEG	op	age_op	histopathology	1year_outcome	latest_outcome	time_follow-up	hemisphere	lobe
+﻿participant_id	group	sex	age_epilepsyonset	age_scan	mri_diagnosis	map	spect	pet	invasive_EEG	op	age_op	histopathology	1year_outcome	latest_outcome	time_follow-up	hemisphere	lobe
 sub-00058	fcd	M	1	4	suspicion	0	0	0	0	1	4	IIb	IA	IA	2	L	FL
 sub-00043	fcd	F	2	4	suspicion	1	0	0	0	1	4	IIa	IA	IA	3	R	FL
 sub-00133	fcd	F	3	7	suspicion	1	0	1	0	0	n/a	n/a	n/a	n/a	n/a	R	TL
