@@ -1,3 +1,5 @@
+1.0.6 2025-02-24
+  - updated participants.tsv to include split information (test set)
 1.0.5 2023-07-09
   - Revised title according to guidelines of Nature Scientific Data
 1.0.4 2023-06-14
