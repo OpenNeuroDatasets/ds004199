@@ -1,4 +1,0 @@
-We present an MRI dataset of 85 people with epilepsy due to focal cortical dysplasia (FCD) type II and 85 healthy controls. 
-In epilepsy imaging, automated detection of FCDs plays a vital role because FCDs often escape conventional MRI analysis. Accurate recognition of FCDs is essential for affected patients. Surgical resection of the dysplastic cortex is associated with a high success rate, and a substantial number of patients subsequently become seizure-free. 
-We hope this dataset's publication will improve computer-aided FCD detection by enabling the validation of existing algorithms or aiding the development of new approaches. 
-Our dataset includes MRI data from T1 and FLAIR weighted images, manually labeled lesion masks, and selected clinical features.
